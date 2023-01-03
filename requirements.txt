@@ -1,0 +1,5 @@
+aioaprs==0.4.1
+aiocsv==1.2.3
+aiohttp==3.8.3
+influxdb-client[async]==1.35.0
+uvloop==0.17.0
